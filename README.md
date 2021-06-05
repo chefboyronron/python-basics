@@ -1,4 +1,5 @@
 # python-basics
+- interpreter version python 3.9
 ## MacOs
 
 ### Change default python version
